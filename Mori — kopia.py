@@ -112,3 +112,6 @@ opiekun.undo()
 
 print("\nCTRL+Z\n")
 opiekun.undo()
+
+print("\nCTRL+Z\n")
+opiekun.undo()
