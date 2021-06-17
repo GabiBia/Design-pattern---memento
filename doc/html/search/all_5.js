@@ -1,5 +1,5 @@
 var searchData=
 [
-  ['inicjator_7',['inicjator',['../namespace_mori_01_xE2_x80_x94_01kopia.html#a3b2b897601bc6137ca07bad9e99e701d',1,'Mori — kopia']]],
-  ['inicjator_8',['Inicjator',['../class_mori_01_xE2_x80_x94_01kopia_1_1_inicjator.html',1,'Mori — kopia']]]
+  ['inicjator_7',['inicjator',['../namespace_mori.html#a7f462e25fe7fea66f02f967e2e2ebe3c',1,'Mori']]],
+  ['inicjator_8',['Inicjator',['../class_mori_1_1_inicjator.html',1,'Mori']]]
 ];

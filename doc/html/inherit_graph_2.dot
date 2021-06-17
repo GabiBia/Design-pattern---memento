@@ -5,5 +5,5 @@ digraph "Graficzna hierarchia klas"
   edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
   node [fontname="Helvetica",fontsize="10",shape=record];
   rankdir="LR";
-  Node0 [label="Mori — kopia.Opiekun",height=0.2,width=0.4,color="black",URL="$class_mori_01_xE2_x80_x94_01kopia_1_1_opiekun.html",tooltip="Opiekun nie polega na klasie Concrete Memento."];
+  Node0 [label="Mori.Opiekun",height=0.2,width=0.4,color="black",URL="$class_mori_1_1_opiekun.html",tooltip="Opiekun nie polega na klasie Concrete Memento."];
 }

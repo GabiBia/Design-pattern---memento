@@ -1,5 +1,5 @@
 var searchData=
 [
-  ['save_17',['save',['../class_mori_01_xE2_x80_x94_01kopia_1_1_inicjator.html#af61230d5cef789fc47acb773bc37d7de',1,'Mori — kopia::Inicjator']]],
-  ['show_5fhistory_18',['show_history',['../class_mori_01_xE2_x80_x94_01kopia_1_1_opiekun.html#aead2578fb9b9c8ca9c2d794a7f0aede4',1,'Mori — kopia::Opiekun']]]
+  ['save_17',['save',['../class_mori_1_1_inicjator.html#a4450c22aa6999b9e2f7984fac7d2e9e8',1,'Mori::Inicjator']]],
+  ['show_5fhistory_18',['show_history',['../class_mori_1_1_opiekun.html#ae2aa1e9997ee5d036ae65eea4469e62e',1,'Mori::Opiekun']]]
 ];

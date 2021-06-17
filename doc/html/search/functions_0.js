@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['_5f_5finit_5f_5f_27',['__init__',['../class_mori_01_xE2_x80_x94_01kopia_1_1_inicjator.html#ab50353e9ed77c310c64af2a513ae607b',1,'Mori — kopia.Inicjator.__init__()'],['../class_mori_01_xE2_x80_x94_01kopia_1_1_concrete_memento.html#ab6ca71a3c98d54f85466534d7d501f0c',1,'Mori — kopia.ConcreteMemento.__init__()'],['../class_mori_01_xE2_x80_x94_01kopia_1_1_opiekun.html#a34fc780a4be23908d194de849064846d',1,'Mori — kopia.Opiekun.__init__()']]]
+  ['_5f_5finit_5f_5f_27',['__init__',['../class_mori_1_1_inicjator.html#aeef77b0eed73a7878a359350a6349dcf',1,'Mori.Inicjator.__init__()'],['../class_mori_1_1_concrete_memento.html#a06bf1f1a48242dc6e36d06877619fd69',1,'Mori.ConcreteMemento.__init__()'],['../class_mori_1_1_opiekun.html#ad639f87cb7028c9f0fd2541e6b9c7819',1,'Mori.Opiekun.__init__()']]]
 ];

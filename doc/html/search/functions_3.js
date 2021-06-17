@@ -1,6 +1,6 @@
 var searchData=
 [
-  ['get_5fdate_30',['get_date',['../class_mori_01_xE2_x80_x94_01kopia_1_1_memento.html#a73947a502e3273bd01838e57e272a2a9',1,'Mori — kopia.Memento.get_date()'],['../class_mori_01_xE2_x80_x94_01kopia_1_1_concrete_memento.html#ab52b1510fd5d1c6fa6effa52ed630fca',1,'Mori — kopia.ConcreteMemento.get_date()']]],
-  ['get_5fname_31',['get_name',['../class_mori_01_xE2_x80_x94_01kopia_1_1_memento.html#a7def94533e79af2f230bd0eac095731a',1,'Mori — kopia.Memento.get_name()'],['../class_mori_01_xE2_x80_x94_01kopia_1_1_concrete_memento.html#ae52468b3fd3a752cea3ea55f964ab4a2',1,'Mori — kopia.ConcreteMemento.get_name(self)']]],
-  ['get_5fstate_32',['get_state',['../class_mori_01_xE2_x80_x94_01kopia_1_1_concrete_memento.html#ac5dccca16793a90677efcf7a114bcbbe',1,'Mori — kopia::ConcreteMemento']]]
+  ['get_5fdate_30',['get_date',['../class_mori_1_1_memento.html#afce37832603f27cf408f13d2ab2120f2',1,'Mori.Memento.get_date()'],['../class_mori_1_1_concrete_memento.html#a105a50e9a30c0a4d2bf9fe855cf885d0',1,'Mori.ConcreteMemento.get_date()']]],
+  ['get_5fname_31',['get_name',['../class_mori_1_1_memento.html#a388e97a9c8ceaf5adbf1e3b9592f48c6',1,'Mori.Memento.get_name()'],['../class_mori_1_1_concrete_memento.html#a81d86a100a6fde44012da7108aea109f',1,'Mori.ConcreteMemento.get_name(self)']]],
+  ['get_5fstate_32',['get_state',['../class_mori_1_1_concrete_memento.html#a24bfd74ca27d54f589651e4fd01b5f6a',1,'Mori::ConcreteMemento']]]
 ];

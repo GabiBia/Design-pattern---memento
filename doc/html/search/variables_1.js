@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['opiekun_38',['opiekun',['../namespace_mori_01_xE2_x80_x94_01kopia.html#a4511738e7d62416d1ea0fb44185324d4',1,'Mori — kopia']]]
+  ['opiekun_38',['opiekun',['../namespace_mori.html#a057b6c49183231f75dd49808bf920991',1,'Mori']]]
 ];

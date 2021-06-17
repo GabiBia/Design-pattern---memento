@@ -24,7 +24,7 @@
 */
 var NAVTREE =
 [
-  [ "Wrzozec Memento", "index.html", [
+  [ "Wzorzec Memento", "index.html", [
     [ "README", "md__r_e_a_d_m_e.html", null ],
     [ "Pakiety", "namespaces.html", [
       [ "Pakiety", "namespaces.html", "namespaces_dup" ],
@@ -50,7 +50,7 @@ var NAVTREE =
 
 var NAVTREEINDEX =
 [
-"_mori_01_xE2_x80_x94_01kopia_8py.html"
+"_mori_8py.html"
 ];
 
 var SYNCONMSG = 'click to disable panel synchronisation';

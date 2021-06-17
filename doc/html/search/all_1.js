@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['backup_1',['backup',['../class_mori_01_xE2_x80_x94_01kopia_1_1_opiekun.html#a727acd26a53d7592d8a2fb0cbac85f0e',1,'Mori — kopia::Opiekun']]]
+  ['backup_1',['backup',['../class_mori_1_1_opiekun.html#a5d763a10af3527034d7b077a8b8b085c',1,'Mori::Opiekun']]]
 ];

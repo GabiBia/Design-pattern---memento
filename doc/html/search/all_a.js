@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['undo_19',['undo',['../class_mori_01_xE2_x80_x94_01kopia_1_1_opiekun.html#ad12e2c810c5a15430ba95eb473d3777c',1,'Mori — kopia::Opiekun']]]
+  ['undo_19',['undo',['../class_mori_1_1_opiekun.html#a6e403f1904e7811337ec9a936fe10069',1,'Mori::Opiekun']]]
 ];
