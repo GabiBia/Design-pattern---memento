@@ -5,7 +5,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=9"/>
 <meta name="generator" content="Doxygen 1.9.1"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>Wzorzec Memento: README</title>
+<title>Wzorzec Memento: Design Pattern - Memento</title>
 <link href="tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="jquery.js"></script>
 <script type="text/javascript" src="dynsections.js"></script>
@@ -93,10 +93,18 @@ $(document).ready(function(){initNavTree('md__r_e_a_d_m_e.html',''); initResizab
 
 <div class="PageDoc"><div class="header">
   <div class="headertitle">
-<div class="title">README </div>  </div>
+<div class="title">Design Pattern - Memento </div>  </div>
 </div><!--header-->
 <div class="contents">
-<div class="textblock"></div></div><!-- contents -->
+<div class="textblock"><p>The aim of the project was to implement the design pattern to the selected issue. Memento is a behavioral design pattern that lets you save and restore the previous state of an object without revealing the details of its implementation.</p>
+<h1><a class="anchor" id="autotoc_md1"></a>
+Use Case</h1>
+<p>We used the Memento Design Pattern to simulate a text editor 'undo' function. Before performing any operation, the app records the state of all objects and saves it in some storage. Later, when a user decides to revert an action, the app fetches the latest snapshot from the history and uses it to restore the state of all objects.</p>
+<p><b>Tools:</b></p><ul>
+<li>Python 3 - application code</li>
+<li>Doxygen - a documentation generator </li>
+</ul>
+</div></div><!-- contents -->
 </div><!-- PageDoc -->
 </div><!-- doc-content -->
 <!-- start footer part -->
