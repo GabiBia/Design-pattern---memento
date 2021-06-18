@@ -2658,5 +2658,3 @@ GENERATE_LEGEND        = YES
 # The default value is: YES.
 
 DOT_CLEANUP            = YES
-'PROJECT_NAME = "This is project name"' 
-'PROJECT_NAME = "This is project name"' 
