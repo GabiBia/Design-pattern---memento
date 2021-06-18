@@ -24,7 +24,7 @@
 */
 var NAVTREE =
 [
-  [ "Wzorzec Memento", "index.html", [
+  [ "This is project name'", "index.html", [
     [ "Design Pattern - Memento", "md__r_e_a_d_m_e.html", [
       [ "Use Case", "md__r_e_a_d_m_e.html#autotoc_md1", null ]
     ] ],
