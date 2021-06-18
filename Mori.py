@@ -145,3 +145,5 @@ opiekun.undo()
 
 print("\nCTRL+Z\n")
 opiekun.undo()
+
+input("\nKoniec: naciśnij ENTER aby wyjść.")

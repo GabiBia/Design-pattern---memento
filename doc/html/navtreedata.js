@@ -25,7 +25,9 @@
 var NAVTREE =
 [
   [ "Wzorzec Memento", "index.html", [
-    [ "README", "md__r_e_a_d_m_e.html", null ],
+    [ "Design Pattern - Memento", "md__r_e_a_d_m_e.html", [
+      [ "Use Case", "md__r_e_a_d_m_e.html#autotoc_md1", null ]
+    ] ],
     [ "Pakiety", "namespaces.html", [
       [ "Pakiety", "namespaces.html", "namespaces_dup" ],
       [ "Funkcje pakietu", "namespacemembers.html", [
