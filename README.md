@@ -10,3 +10,6 @@ Later, when a user decides to revert an action, the app fetches the latest snaps
 **Tools:**
 * Python 3 - application code
 * Doxygen - a documentation generator
+
+## How to run
+To run the program, enter the `make` command in the terminal.
